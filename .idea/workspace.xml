@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="cfe90fe0-0e21-48ce-9670-efc3c203de3b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
+=======
+    <list default="true" id="cfe90fe0-0e21-48ce-9670-efc3c203de3b" name="Default" comment="" />
+>>>>>>> Stashed changes
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,8 +34,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="535">
               <caret line="694" column="69" lean-forward="false" selection-start-line="694" selection-start-column="69" selection-end-line="694" selection-end-column="69" />
+=======
+            <state relative-caret-position="765">
+              <caret line="51" column="66" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -235,13 +244,21 @@
       <workItem from="1481040747317" duration="697000" />
       <workItem from="1481041648981" duration="4216000" />
       <workItem from="1481067023442" duration="9000" />
+<<<<<<< Updated upstream
       <workItem from="1481067270644" duration="7969000" />
       <workItem from="1481127643001" duration="759000" />
+=======
+      <workItem from="1481067270644" duration="8044000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="22409000" />
+=======
+    <option name="totallyTimeSpent" value="21725000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="21" width="1320" height="747" extended-state="6" />
@@ -583,8 +600,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="535">
           <caret line="694" column="69" lean-forward="false" selection-start-line="694" selection-start-column="69" selection-end-line="694" selection-end-column="69" />
+=======
+        <state relative-caret-position="765">
+          <caret line="51" column="66" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
