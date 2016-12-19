@@ -8,7 +8,7 @@
 		print_r($_POST);
 		// CHANGE THE TWO LINES BELOW
 		$email_from = $_POST['email']; // required
-		$email_to = "paritosh.singh@sparxitsolutions.com";
+		$email_to = "m.rios@mimslab.com";
 		$email_subject = "this is a test"; // required
 		$name = $_POST['name']; // required
 		$subject = $_POST['subject']; // required
