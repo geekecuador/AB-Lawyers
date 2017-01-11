@@ -718,8 +718,8 @@ section::after, .masthead::after {
 	width: 100%;
 }
 .profile-info, .social-wrap {
-	background: rgba(249, 249, 249, 0.7);
-	padding: 20px 10px 24px;
+	background: rgba(249, 249, 249, 0.0);
+	padding: 20px;
 	text-align: center;
 	width: 100%;
 }
@@ -3022,4 +3022,85 @@ html{
   
 }
 
+/*, handheld and (orientation:portrait)
+*/
 
+/*@media screen and (max-width: 100px)
+{
+   .slis{
+   	background-image: url(../images/vertical1.jpg);
+   }
+   .slis img{
+   	display: none;
+   }
+
+	#home-sec{
+		margin-top: 0px;
+	}
+
+	#anchorlink{
+		margin-top: 0px;
+	}
+
+}*/
+
+/* ================ Mi CSS ================ */
+
+
+
+#img-abogado{
+	width: 70%;
+}
+
+@media screen and (orientation:portrait){
+	#img-abogado{
+		width: 100%;
+		text-align: center;
+	}
+	.bnt-nav{
+		margin-top: 0px;
+	}
+	.slis{
+		display: none;
+	}
+	.prtrt{
+		display: flex;
+	}
+	#lat-redes{
+		display: none;
+	}
+}
+
+@media screen and (orientation:landscape){
+
+	.slis{
+		display: flex;
+	}
+	.prtrt{
+		display: none;
+	}
+}
+
+
+
+@media only screen and (min-width: 768px){
+	.bnt-nav{
+		margin-top: -35px;
+	}
+}
+
+@media only screen and (max-width: 600px){
+	.bnt-nav {
+		margin-top: 0px;
+	}
+	.slis{
+		display: none;
+	}
+	.prtrt{
+		display: flex;
+	}
+	#lat-redes{
+		display: none;
+	}
+
+}

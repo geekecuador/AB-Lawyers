@@ -1,4 +1,4 @@
-<?php 
+	<?php 
 	$errors = array(); // array to hold validation errors
 
 	$data = array(); // array to pass back data

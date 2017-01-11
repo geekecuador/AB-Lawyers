@@ -5,7 +5,7 @@ jQuery(document).ready(function() {
 		sliderType : "standard",
 		jsFileLocation: "assets/",
 		sliderLayout : "auto",
-		delay : 9000,
+		delay : 3000,
 		navigation : {
 		
 			arrows : {
@@ -15,7 +15,10 @@ jQuery(document).ready(function() {
 		},
 		responsiveLevels : [1240, 1024, 778, 480],
 		gridwidth : [1240, 1024, 778, 480],
-		gridheight : [1078, 650, 650, 750],
+		gridheight : [720, 650, 750],
 	});
+
+
 	
 });
+
